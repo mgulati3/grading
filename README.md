@@ -16,7 +16,7 @@ Automated tool for grading iOS assignments downloaded from Canvas. Streamlines t
 ```bash
 # Clone this repository
 git clone https://github.com/yourusername/ios-grader.git
-cd ios-grader
+cd grading
 
 # Or download both files manually:
 # - grade-ios.sh
