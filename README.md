@@ -15,7 +15,7 @@ Automated tool for grading iOS assignments downloaded from Canvas. Streamlines t
 ### 1. Download Scripts
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/ios-grader.git
+git clone https://github.com/mgulati3/grading.git
 cd grading
 
 # Or download both files manually:
